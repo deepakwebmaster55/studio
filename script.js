@@ -7,8 +7,8 @@ loader.innerHTML = `
       <svg width="34" height="34" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3v12.2a3.6 3.6 0 1 1-2-3.2V6.2l8-1.7v7.4a3.6 3.6 0 1 1-2-3.2V6.9L12 7.8V3Z" fill="currentColor"/></svg>
     </div>
     <div class="site-loader-copy">
-      <strong>SurSadhana Music Studio</strong>
-      <span>Voice. Craft. Confidence.</span>
+      <strong>Ej music house studio</strong>
+      <span>Unlock your passion</span>
     </div>
     <div class="site-loader-line"></div>
   </div>
